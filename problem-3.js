@@ -13,4 +13,5 @@ function titleCaseSentence(str) {
   return final.join(" ");
 }
 
-console.log(titleCaseSentence("hello bd i     love   abroad"));
+console.log(titleCaseSentence("hello bd "));
+console.log(titleCaseSentence("hello world, i am here"));
